@@ -1,6 +1,12 @@
 # Achal Srivastava & Co
 
-Achal Srivastava & Co is a Chartered Accountant firm in Varanasi, Uttar Pradesh, India. The firm is led by Achal Srivastava, FCA, and has provided financial guidance and tax solutions since 2006.
+Achal Srivastava & Co is a Chartered Accountant firm in Varanasi, Uttar Pradesh, India. The firm is led by Achal Srivastava, FCA, includes CA Pragati in the team, and has provided financial guidance and tax solutions since 2006. The firm is supported by 40+ highly skilled staff.
+
+## Team
+
+- Achal Srivastava, FCA: Founder and Lead Chartered Accountant
+- CA Pragati: Chartered Accountant
+- 40+ highly skilled staff supporting taxation, audit, compliance, documentation and client coordination
 
 ## Core Services
 
